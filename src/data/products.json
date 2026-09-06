@@ -1,0 +1,349 @@
+{
+  "products": [
+    {
+      "id": "invoice-kit",
+      "slug": "invoice-quotation-kit",
+      "order": 1,
+      "featured": true,
+      "priceUsd": 39,
+      "priceAed": 145,
+      "checkoutUrl": "",
+      "formats": ["xlsx"],
+      "apps": ["Excel 2016+", "Google Sheets", "Numbers"],
+      "en": {
+        "name": "Invoice & Quotation Kit",
+        "short": "FTA-compliant tax invoices, simplified invoices, quotations and credit notes with 5% VAT and automatic numbering.",
+        "lede": "Send an invoice a VAT-registered client can actually reclaim. Every mandatory field is on the page, the VAT is calculated for you, and the whole thing reads correctly in Arabic and English.",
+        "features": [
+          "Full tax invoice with all mandatory FTA fields, including both TRNs",
+          "Simplified tax invoice for supplies under AED 10,000",
+          "Quotation and credit note on the same numbering system",
+          "5% VAT, zero-rated and exempt lines on one invoice",
+          "Automatic sequential numbering and an invoice register",
+          "Bilingual layout: Arabic and English side by side, print-ready A4"
+        ],
+        "inside": [
+          ["Settings", "Your business details, TRN, bank details, numbering prefix"],
+          ["Tax Invoice", "Full invoice for VAT-registered clients"],
+          ["Simplified Invoice", "Short form for retail and small supplies"],
+          ["Quotation", "Same look, converts to an invoice in one step"],
+          ["Credit Note", "Corrects or cancels an issued invoice"],
+          ["Clients", "Client list with TRNs, pulled into every document"],
+          ["Register", "Every document you issue, logged with status"]
+        ],
+        "who": "Freelancers, consultants, agencies and trading companies that invoice in the UAE."
+      },
+      "ar": {
+        "name": "حزمة الفواتير وعروض الأسعار",
+        "short": "فواتير ضريبية مطابقة لمتطلبات الهيئة الاتحادية للضرائب، وفواتير مبسطة، وعروض أسعار، وإشعارات دائنة مع احتساب ضريبة 5% وترقيم تلقائي.",
+        "lede": "أرسل فاتورة يستطيع عميلك المسجل في الضريبة استرداد ضريبتها فعلاً. كل الحقول الإلزامية موجودة، والضريبة تُحسب تلقائياً، والمستند يُقرأ بشكل صحيح بالعربية والإنجليزية.",
+        "features": [
+          "فاتورة ضريبية كاملة بجميع الحقول الإلزامية بما فيها رقمي التسجيل الضريبي",
+          "فاتورة ضريبية مبسطة للتوريدات الأقل من 10,000 درهم",
+          "عرض سعر وإشعار دائن على نظام الترقيم نفسه",
+          "بنود بنسبة 5% وبنود بنسبة صفر وبنود معفاة في فاتورة واحدة",
+          "ترقيم تسلسلي تلقائي وسجل بجميع الفواتير",
+          "تصميم ثنائي اللغة: العربية والإنجليزية جنباً إلى جنب، جاهز للطباعة A4"
+        ],
+        "inside": [
+          ["الإعدادات", "بيانات منشأتك ورقم التسجيل الضريبي والحساب البنكي وبادئة الترقيم"],
+          ["فاتورة ضريبية", "فاتورة كاملة للعملاء المسجلين في الضريبة"],
+          ["فاتورة مبسطة", "نموذج مختصر للتجزئة والتوريدات الصغيرة"],
+          ["عرض سعر", "بالمظهر نفسه، يتحول إلى فاتورة بخطوة واحدة"],
+          ["إشعار دائن", "لتصحيح فاتورة صادرة أو إلغائها"],
+          ["العملاء", "قائمة العملاء وأرقامهم الضريبية، تُسحب تلقائياً إلى كل مستند"],
+          ["السجل", "كل مستند تصدره، مسجل مع حالته"]
+        ],
+        "who": "المستقلون والاستشاريون والوكالات والشركات التجارية التي تصدر فواتير في الإمارات."
+      }
+    },
+    {
+      "id": "vat-tracker",
+      "slug": "bookkeeping-vat-tracker",
+      "order": 2,
+      "featured": true,
+      "priceUsd": 49,
+      "priceAed": 180,
+      "checkoutUrl": "",
+      "formats": ["xlsx"],
+      "apps": ["Excel 2016+", "Google Sheets", "Numbers"],
+      "en": {
+        "name": "Bookkeeping & VAT Tracker",
+        "short": "Income and expense ledger with output and input VAT, and a quarterly summary laid out like the FTA VAT return.",
+        "lede": "Log every sale and every receipt once. The tracker splits the VAT, groups supplies by emirate, and fills a summary that mirrors the boxes of the VAT return, so filing day is copying numbers, not building them.",
+        "features": [
+          "Income ledger with output VAT by emirate, as the return requires",
+          "Expense ledger with recoverable input VAT flagged per line",
+          "Quarterly VAT summary that mirrors the return boxes",
+          "Monthly dashboard: revenue, expenses, VAT payable, cash position",
+          "Chart of accounts you can rename to match your accountant",
+          "Threshold watch: warns as you approach AED 187,500 and AED 375,000"
+        ],
+        "inside": [
+          ["Dashboard", "This quarter at a glance: sales, costs, VAT due"],
+          ["Income", "Every sale with emirate, VAT rate and payment status"],
+          ["Expenses", "Every cost with supplier TRN and input VAT recovery"],
+          ["VAT Return", "Quarterly summary in the FTA box order"],
+          ["Accounts", "Editable chart of accounts and categories"],
+          ["Suppliers", "Suppliers and their TRNs"]
+        ],
+        "who": "VAT-registered businesses that keep their own books, and anyone approaching the registration threshold."
+      },
+      "ar": {
+        "name": "دفتر الحسابات ومتابعة ضريبة القيمة المضافة",
+        "short": "سجل للإيرادات والمصروفات مع ضريبة المخرجات والمدخلات، وملخص ربع سنوي مرتب كما في إقرار ضريبة القيمة المضافة.",
+        "lede": "سجّل كل عملية بيع وكل إيصال مرة واحدة. يفصل المتتبع الضريبة، ويجمع التوريدات حسب الإمارة، ويعبئ ملخصاً يطابق خانات الإقرار الضريبي، فيصبح يوم التقديم نسخ أرقام لا بناءها.",
+        "features": [
+          "سجل إيرادات مع ضريبة المخرجات حسب الإمارة كما يتطلب الإقرار",
+          "سجل مصروفات مع تحديد ضريبة المدخلات القابلة للاسترداد لكل بند",
+          "ملخص ربع سنوي يطابق خانات الإقرار الضريبي",
+          "لوحة شهرية: الإيرادات والمصروفات والضريبة المستحقة والوضع النقدي",
+          "دليل حسابات يمكنك إعادة تسميته ليطابق محاسبك",
+          "مراقبة الحد: ينبهك مع اقترابك من 187,500 و375,000 درهم"
+        ],
+        "inside": [
+          ["اللوحة", "هذا الربع في لمحة: المبيعات والتكاليف والضريبة المستحقة"],
+          ["الإيرادات", "كل عملية بيع مع الإمارة ونسبة الضريبة وحالة السداد"],
+          ["المصروفات", "كل تكلفة مع الرقم الضريبي للمورد واسترداد ضريبة المدخلات"],
+          ["الإقرار الضريبي", "ملخص ربع سنوي بترتيب خانات الهيئة"],
+          ["الحسابات", "دليل حسابات وتصنيفات قابلة للتعديل"],
+          ["الموردون", "الموردون وأرقامهم الضريبية"]
+        ],
+        "who": "المنشآت المسجلة في الضريبة التي تمسك دفاترها بنفسها، وكل من يقترب من حد التسجيل."
+      }
+    },
+    {
+      "id": "ct-estimator",
+      "slug": "corporate-tax-estimator",
+      "order": 3,
+      "featured": false,
+      "priceUsd": 29,
+      "priceAed": 105,
+      "checkoutUrl": "",
+      "formats": ["xlsx"],
+      "apps": ["Excel 2016+", "Google Sheets", "Numbers"],
+      "en": {
+        "name": "Corporate Tax Estimator",
+        "short": "See your 9% corporate tax position in minutes, check Small Business Relief, and keep your deadlines in one place.",
+        "lede": "Enter revenue and costs, and the estimator applies the 0% band on the first AED 375,000 of taxable income and 9% above it. It tells you whether the AED 3 million Small Business Relief applies, and what that election costs you.",
+        "features": [
+          "0% on the first AED 375,000 of taxable income, 9% above",
+          "Small Business Relief check against the AED 3 million revenue limit",
+          "Adjustments sheet for non-deductible and partly deductible costs",
+          "Deadline tracker: registration, financial year end, return due date",
+          "Side-by-side scenario: with and without relief",
+          "Plain-language notes on what each figure means"
+        ],
+        "inside": [
+          ["Inputs", "Revenue, cost of sales, overheads, financial year"],
+          ["Adjustments", "Entertainment, fines, related-party items"],
+          ["Estimate", "Taxable income, band split, tax payable"],
+          ["Relief Check", "Eligibility and effect of Small Business Relief"],
+          ["Deadlines", "Your dates, calculated from your year end"]
+        ],
+        "who": "Owners who want to know the number before the accountant does."
+      },
+      "ar": {
+        "name": "مقدّر ضريبة الشركات",
+        "short": "اعرف وضعك مع ضريبة الشركات بنسبة 9% في دقائق، وتحقق من إعفاء الأعمال الصغيرة، واحتفظ بمواعيدك في مكان واحد.",
+        "lede": "أدخل الإيرادات والتكاليف، ويطبق المقدّر شريحة 0% على أول 375,000 درهم من الدخل الخاضع للضريبة و9% فوقها. ويخبرك إن كان إعفاء الأعمال الصغيرة بحد 3 ملايين درهم ينطبق عليك، وماذا يكلفك هذا الاختيار.",
+        "features": [
+          "0% على أول 375,000 درهم من الدخل الخاضع للضريبة و9% فوقها",
+          "التحقق من إعفاء الأعمال الصغيرة مقابل حد الإيرادات 3 ملايين درهم",
+          "ورقة تعديلات للتكاليف غير القابلة للخصم والقابلة للخصم جزئياً",
+          "متتبع مواعيد: التسجيل ونهاية السنة المالية وموعد تقديم الإقرار",
+          "سيناريو متجاور: مع الإعفاء وبدونه",
+          "ملاحظات بلغة بسيطة تشرح معنى كل رقم"
+        ],
+        "inside": [
+          ["المدخلات", "الإيرادات وتكلفة المبيعات والمصروفات العامة والسنة المالية"],
+          ["التعديلات", "الضيافة والغرامات وبنود الأطراف المرتبطة"],
+          ["التقدير", "الدخل الخاضع للضريبة وتقسيم الشرائح والضريبة المستحقة"],
+          ["فحص الإعفاء", "الأهلية وأثر إعفاء الأعمال الصغيرة"],
+          ["المواعيد", "تواريخك محسوبة من نهاية سنتك المالية"]
+        ],
+        "who": "أصحاب الأعمال الذين يريدون معرفة الرقم قبل المحاسب."
+      }
+    },
+    {
+      "id": "cashflow-planner",
+      "slug": "freelancer-cashflow-planner",
+      "order": 4,
+      "featured": false,
+      "priceUsd": 29,
+      "priceAed": 105,
+      "checkoutUrl": "",
+      "formats": ["xlsx"],
+      "apps": ["Excel 2016+", "Google Sheets", "Numbers"],
+      "en": {
+        "name": "Freelancer Cash-flow Planner",
+        "short": "Work out a day rate that survives licence, visa and insurance costs, then track twelve months of real cash.",
+        "lede": "Most UAE freelancers price from what they earned in a job. This planner starts from your actual cost of being licensed, adds the life you want, and gives you a rate. Then it follows the cash month by month so a slow quarter never surprises you.",
+        "features": [
+          "Rate builder: licence, visa, insurance, tools, taxes, time off",
+          "Twelve-month cash-flow with expected and confirmed income",
+          "Runway indicator in months at your current burn",
+          "Scenario columns: base, slow quarter, lost client",
+          "Reserve targets for VAT and corporate tax set aside automatically",
+          "Works in AED with any second currency you invoice in"
+        ],
+        "inside": [
+          ["Rates", "From annual costs to day and hour rates"],
+          ["Costs", "Licence, visa, insurance, software, workspace"],
+          ["Cash-flow", "Twelve months of in, out and balance"],
+          ["Scenarios", "Three futures side by side"],
+          ["Reserves", "What to set aside each month"]
+        ],
+        "who": "Freelance permit holders and one-person companies in the UAE."
+      },
+      "ar": {
+        "name": "مخطط التدفق النقدي للمستقلين",
+        "short": "احسب سعر يومك بحيث يغطي تكاليف الرخصة والإقامة والتأمين، ثم تابع اثني عشر شهراً من النقد الفعلي.",
+        "lede": "معظم المستقلين في الإمارات يسعّرون بناءً على راتبهم السابق. يبدأ هذا المخطط من تكلفتك الحقيقية كصاحب رخصة، ويضيف الحياة التي تريدها، ويعطيك سعراً. ثم يتابع النقد شهراً بشهر حتى لا يفاجئك ربع بطيء.",
+        "features": [
+          "بناء السعر: الرخصة والإقامة والتأمين والأدوات والضرائب والإجازات",
+          "تدفق نقدي لاثني عشر شهراً مع الدخل المتوقع والمؤكد",
+          "مؤشر المدى بالأشهر عند معدل إنفاقك الحالي",
+          "أعمدة سيناريوهات: الأساس، ربع بطيء، فقدان عميل",
+          "أهداف احتياطي لضريبة القيمة المضافة وضريبة الشركات تُحجز تلقائياً",
+          "يعمل بالدرهم مع أي عملة ثانية تصدر بها فواتيرك"
+        ],
+        "inside": [
+          ["الأسعار", "من التكاليف السنوية إلى سعر اليوم والساعة"],
+          ["التكاليف", "الرخصة والإقامة والتأمين والبرامج ومساحة العمل"],
+          ["التدفق النقدي", "اثنا عشر شهراً من الداخل والخارج والرصيد"],
+          ["السيناريوهات", "ثلاثة مستقبلات جنباً إلى جنب"],
+          ["الاحتياطيات", "ما تحجزه كل شهر"]
+        ],
+        "who": "حاملو رخص العمل الحر والشركات الفردية في الإمارات."
+      }
+    },
+    {
+      "id": "contracts-kit",
+      "slug": "contracts-proposals-kit",
+      "order": 5,
+      "featured": true,
+      "priceUsd": 49,
+      "priceAed": 180,
+      "checkoutUrl": "",
+      "formats": ["docx"],
+      "apps": ["Word 2016+", "Google Docs", "Pages"],
+      "en": {
+        "name": "Contracts & Proposals Kit",
+        "short": "Bilingual service agreement, proposal, payment terms, change order, NDA and three polite payment reminders.",
+        "lede": "The documents that get you paid on time, written for how business is done in the UAE and laid out in Arabic and English on the same page. Fill the highlighted fields and send.",
+        "features": [
+          "Service agreement with scope, milestones, IP and termination clauses",
+          "Proposal template that turns into the agreement without retyping",
+          "Payment terms sheet with deposit, milestones and late fee schedule",
+          "Change order for scope creep, signed before the extra work starts",
+          "Mutual NDA for early conversations",
+          "Three reminder emails: friendly, firm, final"
+        ],
+        "inside": [
+          ["Service Agreement", "Eight pages, bilingual, highlighted fields"],
+          ["Proposal", "Cover, scope, timeline, investment, next step"],
+          ["Payment Terms", "Deposit, milestones, late fees, methods"],
+          ["Change Order", "One page, signed, attaches to the agreement"],
+          ["NDA", "Mutual, two pages"],
+          ["Reminders", "Three emails in both languages"]
+        ],
+        "who": "Anyone selling services to companies in the UAE and the wider GCC."
+      },
+      "ar": {
+        "name": "حزمة العقود والعروض",
+        "short": "اتفاقية خدمات ثنائية اللغة، وعرض، وشروط دفع، وأمر تغيير، واتفاقية سرية، وثلاث رسائل تذكير مهذبة بالدفع.",
+        "lede": "المستندات التي تضمن لك السداد في موعده، مكتوبة وفق أسلوب العمل في الإمارات ومنسقة بالعربية والإنجليزية في الصفحة نفسها. عبّئ الحقول المظللة وأرسل.",
+        "features": [
+          "اتفاقية خدمات ببنود النطاق والمراحل والملكية الفكرية والإنهاء",
+          "قالب عرض يتحول إلى الاتفاقية دون إعادة كتابة",
+          "ورقة شروط دفع بالدفعة المقدمة والمراحل وجدول غرامات التأخير",
+          "أمر تغيير لتوسع النطاق، يُوقّع قبل بدء العمل الإضافي",
+          "اتفاقية سرية متبادلة للمحادثات الأولى",
+          "ثلاث رسائل تذكير: ودية، حازمة، نهائية"
+        ],
+        "inside": [
+          ["اتفاقية الخدمات", "ثماني صفحات، ثنائية اللغة، حقول مظللة"],
+          ["العرض", "الغلاف والنطاق والجدول الزمني والاستثمار والخطوة التالية"],
+          ["شروط الدفع", "الدفعة المقدمة والمراحل وغرامات التأخير وطرق السداد"],
+          ["أمر التغيير", "صفحة واحدة، موقعة، تُلحق بالاتفاقية"],
+          ["اتفاقية السرية", "متبادلة، صفحتان"],
+          ["التذكيرات", "ثلاث رسائل باللغتين"]
+        ],
+        "who": "كل من يبيع خدمات لشركات في الإمارات ودول الخليج."
+      }
+    }
+  ],
+  "plans": [
+    {
+      "id": "complete",
+      "kind": "one-time",
+      "priceUsd": 119,
+      "priceAed": 439,
+      "compareUsd": 195,
+      "compareAed": 715,
+      "checkoutUrl": "",
+      "highlight": false,
+      "en": {
+        "name": "Haraka Complete",
+        "period": "one-time",
+        "short": "All five templates today, plus every update for one year.",
+        "includes": [
+          "All 5 templates, Excel and Word",
+          "Arabic and English in every file",
+          "Updates for 12 months",
+          "Use in your own business, forever",
+          "Email support"
+        ],
+        "cta": "Get Complete"
+      },
+      "ar": {
+        "name": "Haraka الكاملة",
+        "period": "دفعة واحدة",
+        "short": "القوالب الخمسة كلها اليوم، مع كل التحديثات لمدة سنة.",
+        "includes": [
+          "القوالب الخمسة كلها، Excel وWord",
+          "العربية والإنجليزية في كل ملف",
+          "تحديثات لمدة 12 شهراً",
+          "استخدام في منشأتك، إلى الأبد",
+          "دعم عبر البريد"
+        ],
+        "cta": "احصل على الكاملة"
+      }
+    },
+    {
+      "id": "pro",
+      "kind": "yearly",
+      "priceUsd": 79,
+      "priceAed": 290,
+      "checkoutUrl": "",
+      "highlight": true,
+      "en": {
+        "name": "Haraka Pro",
+        "period": "per year",
+        "short": "Everything, kept current. When the FTA changes a rule, your files change with it.",
+        "includes": [
+          "All current and future templates",
+          "Rule-change updates within days",
+          "E-invoicing migration notes when the 2027 mandate lands",
+          "Priority email support",
+          "Cancel any time, keep the files"
+        ],
+        "cta": "Start Pro"
+      },
+      "ar": {
+        "name": "Haraka برو",
+        "period": "سنوياً",
+        "short": "كل شيء، محدث دائماً. حين تغيّر الهيئة قاعدة، تتغير ملفاتك معها.",
+        "includes": [
+          "كل القوالب الحالية والمستقبلية",
+          "تحديثات تغيّر القواعد خلال أيام",
+          "ملاحظات الانتقال إلى الفوترة الإلكترونية عند تطبيق إلزام 2027",
+          "دعم بريدي ذو أولوية",
+          "ألغِ في أي وقت واحتفظ بالملفات"
+        ],
+        "cta": "ابدأ برو"
+      }
+    }
+  ]
+}

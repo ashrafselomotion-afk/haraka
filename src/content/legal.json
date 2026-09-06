@@ -1,0 +1,596 @@
+{
+  "terms": {
+    "en": {
+      "title": "Terms of Sale and Use",
+      "updated": "2026-09-06",
+      "sections": [
+        {
+          "h": "Who we are",
+          "p": [
+            "Haraka is operated by Ashraf Selo, Dubai, United Arab Emirates. Haraka sells ready-to-use bilingual business templates for freelancers and small companies in the UAE.",
+            "By buying or using a Haraka product you agree to these terms. If you do not agree, please do not buy or use the products."
+          ]
+        },
+        {
+          "h": "What you are buying",
+          "p": [
+            "Haraka products are downloadable digital files: Excel workbooks (.xlsx, also usable in Google Sheets and Numbers) and Word documents (.docx). Every template is bilingual, English and Arabic.",
+            "You can buy individual templates, the Haraka Complete bundle, or a Haraka Pro yearly subscription. The product page describes what each option includes at the time of purchase."
+          ]
+        },
+        {
+          "h": "Delivery",
+          "p": [
+            "Files are delivered instantly. After payment you receive a download link on the confirmation page and by email. If a download does not arrive or does not open, write to support@haraka.tools and we will resend it."
+          ]
+        },
+        {
+          "h": "Payment and taxes",
+          "p": [
+            "Sales are handled by Lemon Squeezy as merchant of record. Lemon Squeezy processes your payment, issues your invoice, collects any applicable tax, and delivers your download. Lemon Squeezy is the seller of record for your purchase, and its terms of sale apply to the transaction.",
+            "Prices are shown before checkout. Any tax due on your purchase is calculated and added at checkout based on your location."
+          ]
+        },
+        {
+          "h": "Refunds",
+          "p": [
+            "Because files are delivered instantly, refunds are limited. We refund within 14 days if you report a genuine defect or the product materially differs from its description. Change of mind after download is not refundable, but support will help you fix any issue. Full details are in our Refund Policy."
+          ]
+        },
+        {
+          "h": "Licence",
+          "p": [
+            "Each purchase comes with a licence for one buyer to use the templates without limit inside that buyer's own business. You may not resell, redistribute, share the files, or upload them to template marketplaces. The full terms are in the End User Licence."
+          ]
+        },
+        {
+          "h": "Updates, Haraka Complete and Haraka Pro",
+          "p": [
+            "Individual templates are one-time purchases of the version available on the day you buy.",
+            "Haraka Complete is a one-time purchase that includes all current templates plus 1 year of updates to those templates.",
+            "Haraka Pro is a yearly subscription. While it is active you receive every template, every update, and every new template we release, including updates whenever UAE tax rules change. Pro renews automatically each year until you cancel.",
+            "You can cancel at any time through your Lemon Squeezy customer portal or by emailing support. Cancellation stops the next renewal; you keep access until the end of the paid year, and files you have already downloaded remain yours to use under the licence."
+          ]
+        },
+        {
+          "h": "Not professional advice",
+          "p": [
+            "Haraka templates are tools, not tax, legal or accounting advice. The figures and logic follow public Federal Tax Authority (FTA) rules at the time of release.",
+            "You are responsible for your own filings, registrations and payments. For your specific situation, consult a licensed tax agent or lawyer."
+          ]
+        },
+        {
+          "h": "Disclaimer of warranty",
+          "p": [
+            "The products are provided as they are. We work hard to keep them accurate, but we do not guarantee that they are error free, that they suit every business, or that they will remain current if rules change after release. Check every figure before you rely on it."
+          ]
+        },
+        {
+          "h": "Limitation of liability",
+          "p": [
+            "To the extent permitted by UAE law, Haraka is not liable for indirect or consequential loss, including lost profit, penalties, fines or tax assessments arising from use of the templates.",
+            "Our total liability for any claim connected to a product is limited to the amount you paid for that product."
+          ]
+        },
+        {
+          "h": "Governing law and contact",
+          "p": [
+            "These terms are governed by the laws of the United Arab Emirates, and UAE courts have jurisdiction over any dispute.",
+            "Questions about these terms: support@haraka.tools. We may update these terms from time to time; the date at the top shows the latest version."
+          ]
+        }
+      ]
+    },
+    "ar": {
+      "title": "شروط البيع والاستخدام",
+      "updated": "2026-09-06",
+      "sections": [
+        {
+          "h": "من نحن",
+          "p": [
+            "Haraka (حركة) علامة رقمية يديرها أشرف سيلو، دبي، الإمارات العربية المتحدة. تقدّم Haraka قوالب أعمال جاهزة ثنائية اللغة للمستقلين والشركات الصغيرة في دولة الإمارات.",
+            "بشرائك أي منتج من Haraka أو استخدامك له، فإنك توافق على هذه الشروط. وإن لم توافق عليها، نرجو ألا تشتري المنتجات أو تستخدمها."
+          ]
+        },
+        {
+          "h": "ماذا تشتري",
+          "p": [
+            "منتجات Haraka ملفات رقمية قابلة للتنزيل: مصنفات Excel بصيغة .xlsx (تعمل أيضاً في Google Sheets و Numbers) ومستندات Word بصيغة .docx. وكل قالب ثنائي اللغة بالإنجليزية والعربية.",
+            "يمكنك شراء قوالب منفردة، أو حزمة Haraka Complete، أو اشتراك Haraka Pro السنوي. وتوضح صفحة المنتج ما يشمله كل خيار وقت الشراء."
+          ]
+        },
+        {
+          "h": "التسليم",
+          "p": [
+            "تُسلَّم الملفات فوراً. بعد إتمام الدفع يصلك رابط التنزيل في صفحة التأكيد وعبر البريد الإلكتروني. وإذا لم يصلك الرابط أو تعذّر فتح الملف، راسلنا على support@haraka.tools وسنعيد إرساله إليك."
+          ]
+        },
+        {
+          "h": "الدفع والضرائب",
+          "p": [
+            "تتولى Lemon Squeezy عمليات البيع بصفتها التاجر المسجّل (merchant of record). فهي تعالج الدفع، وتصدر الفاتورة، وتحصّل أي ضريبة مستحقة، وتسلّمك ملف التنزيل. وتُعد Lemon Squeezy البائع الرسمي لعملية الشراء، وتسري شروط البيع الخاصة بها على المعاملة.",
+            "تُعرض الأسعار قبل الدفع، وتُحتسب أي ضريبة مستحقة على مشترياتك وتُضاف عند الدفع بحسب موقعك."
+          ]
+        },
+        {
+          "h": "استرداد المبالغ",
+          "p": [
+            "لأن الملفات تُسلَّم فوراً، فإن الاسترداد محدود. نعيد المبلغ خلال 14 يوماً إذا أبلغتنا عن عيب حقيقي في المنتج أو إذا اختلف المنتج جوهرياً عن وصفه. ولا يُسترد المبلغ عند تغيير الرأي بعد التنزيل، لكن فريق الدعم سيساعدك في حل أي مشكلة. التفاصيل الكاملة في سياسة الاسترداد."
+          ]
+        },
+        {
+          "h": "الترخيص",
+          "p": [
+            "يأتي كل شراء بترخيص لمشترٍ واحد يتيح له استخدام القوالب دون حدود داخل أعماله الخاصة. ولا يجوز إعادة بيع الملفات أو إعادة توزيعها أو مشاركتها أو رفعها إلى متاجر القوالب. الشروط الكاملة في ترخيص المستخدم النهائي."
+          ]
+        },
+        {
+          "h": "التحديثات و Haraka Complete و Haraka Pro",
+          "p": [
+            "القوالب المنفردة تُشترى مرة واحدة، وتحصل فيها على الإصدار المتاح يوم الشراء.",
+            "Haraka Complete شراء لمرة واحدة يشمل جميع القوالب الحالية مع تحديثات لهذه القوالب لمدة سنة واحدة.",
+            "Haraka Pro اشتراك سنوي. وما دام اشتراكك فعّالاً تحصل على جميع القوالب وكل تحديث وكل قالب جديد نصدره، بما في ذلك التحديثات التي نصدرها كلما تغيّرت القواعد الضريبية في الإمارات. ويتجدد الاشتراك تلقائياً كل سنة حتى تلغيه.",
+            "يمكنك الإلغاء في أي وقت عبر بوابة العملاء في Lemon Squeezy أو بمراسلة الدعم. يوقف الإلغاء التجديد التالي، وتحتفظ بالوصول حتى نهاية السنة المدفوعة، وتبقى الملفات التي نزّلتها ملكك للاستخدام وفق الترخيص."
+          ]
+        },
+        {
+          "h": "ليست استشارة مهنية",
+          "p": [
+            "قوالب Haraka أدوات عمل، وليست استشارة ضريبية أو قانونية أو محاسبية. وتتبع الأرقام والمعادلات فيها القواعد المعلنة من الهيئة الاتحادية للضرائب (FTA) وقت الإصدار.",
+            "تقع مسؤولية الإقرارات والتسجيلات والمدفوعات الضريبية عليك. ولحالتك الخاصة، استشر وكيلاً ضريبياً مرخصاً أو محامياً."
+          ]
+        },
+        {
+          "h": "إخلاء المسؤولية عن الضمان",
+          "p": [
+            "تُقدَّم المنتجات بحالتها الراهنة. نبذل جهدنا للحفاظ على دقتها، لكننا لا نضمن خلوها من الأخطاء، أو ملاءمتها لكل نشاط تجاري، أو بقاءها محدّثة إذا تغيّرت القواعد بعد الإصدار. راجع كل رقم قبل الاعتماد عليه."
+          ]
+        },
+        {
+          "h": "حدود المسؤولية",
+          "p": [
+            "في الحدود التي يسمح بها قانون دولة الإمارات، لا تتحمل Haraka المسؤولية عن أي خسارة غير مباشرة أو تبعية، بما فيها فوات الربح أو الغرامات أو الجزاءات أو التقديرات الضريبية الناشئة عن استخدام القوالب.",
+            "ويقتصر إجمالي مسؤوليتنا عن أي مطالبة تتعلق بمنتج ما على المبلغ الذي دفعته مقابل ذلك المنتج."
+          ]
+        },
+        {
+          "h": "القانون الواجب التطبيق والتواصل",
+          "p": [
+            "تخضع هذه الشروط لقوانين دولة الإمارات العربية المتحدة، وتختص محاكم الدولة بالنظر في أي نزاع.",
+            "للاستفسار عن هذه الشروط: support@haraka.tools. وقد نحدّث هذه الشروط من حين لآخر، ويشير التاريخ في الأعلى إلى أحدث نسخة."
+          ]
+        }
+      ]
+    }
+  },
+  "privacy": {
+    "en": {
+      "title": "Privacy Policy",
+      "updated": "2026-09-06",
+      "sections": [
+        {
+          "h": "The short version",
+          "p": [
+            "Haraka collects as little as possible. There are no accounts on this website, no advertising trackers, and no selling of data. This policy explains what little we do handle and why."
+          ]
+        },
+        {
+          "h": "Purchase data",
+          "p": [
+            "Payments are handled by Lemon Squeezy as merchant of record. When you buy, Lemon Squeezy collects the details needed to process the order: your name, email address, billing country and payment information. Payment card details go to Lemon Squeezy and its payment providers, never to Haraka.",
+            "Haraka receives the order details needed to support you and deliver updates: your name, email address, the product purchased and the order date. Lemon Squeezy's own privacy policy governs how it handles your data."
+          ]
+        },
+        {
+          "h": "Support emails",
+          "p": [
+            "If you write to support@haraka.tools, we keep your message and our reply so we can help you and follow up. We do not add support contacts to any marketing list."
+          ]
+        },
+        {
+          "h": "No accounts",
+          "p": [
+            "This website has no user accounts, logins or passwords. You do not need to register to browse or buy."
+          ]
+        },
+        {
+          "h": "No advertising trackers",
+          "p": [
+            "We do not use advertising pixels, retargeting scripts, social media trackers or third-party marketing cookies."
+          ]
+        },
+        {
+          "h": "Your preferences on this device",
+          "p": [
+            "The website stores one small functional preference in your browser's localStorage: your chosen theme (light or dark) and language (English or Arabic). It stays on your device, is never sent to us, and you can clear it at any time from your browser settings."
+          ]
+        },
+        {
+          "h": "Analytics",
+          "p": [
+            "If analytics is enabled, it is anonymous and aggregate only: page views and general country level traffic, with no personal identifiers and no cross-site tracking. We use it to see which pages are useful."
+          ]
+        },
+        {
+          "h": "Your rights",
+          "p": [
+            "You can ask us what data we hold about you, ask us to correct it, or ask us to delete it, subject to records we must keep for tax and accounting purposes. Email support@haraka.tools and we will respond promptly.",
+            "For data held by Lemon Squeezy, you can also contact Lemon Squeezy directly."
+          ]
+        },
+        {
+          "h": "Contact",
+          "p": [
+            "Haraka is operated by Ashraf Selo, Dubai, United Arab Emirates. Privacy questions: support@haraka.tools."
+          ]
+        }
+      ]
+    },
+    "ar": {
+      "title": "سياسة الخصوصية",
+      "updated": "2026-09-06",
+      "sections": [
+        {
+          "h": "باختصار",
+          "p": [
+            "تجمع Haraka أقل قدر ممكن من البيانات. فلا حسابات على هذا الموقع، ولا أدوات تتبع إعلانية، ولا بيع للبيانات. وتوضح هذه السياسة القليل الذي نتعامل معه ولماذا."
+          ]
+        },
+        {
+          "h": "بيانات الشراء",
+          "p": [
+            "تتولى Lemon Squeezy معالجة المدفوعات بصفتها التاجر المسجّل. وعند الشراء تجمع Lemon Squeezy البيانات اللازمة لإتمام الطلب: اسمك، وبريدك الإلكتروني، وبلد الفوترة، وبيانات الدفع. وتذهب بيانات البطاقة إلى Lemon Squeezy ومزودي الدفع لديها، ولا تصل إلى Haraka أبداً.",
+            "تتلقى Haraka بيانات الطلب اللازمة لدعمك وإرسال التحديثات: اسمك، وبريدك الإلكتروني، والمنتج الذي اشتريته، وتاريخ الطلب. وتحكم سياسة الخصوصية الخاصة بـ Lemon Squeezy طريقة تعاملها مع بياناتك."
+          ]
+        },
+        {
+          "h": "رسائل الدعم",
+          "p": [
+            "عند مراسلتك support@haraka.tools نحتفظ برسالتك وردّنا عليها لنتمكن من مساعدتك والمتابعة معك. ولا نضيف من يراسل الدعم إلى أي قائمة تسويقية."
+          ]
+        },
+        {
+          "h": "لا حسابات",
+          "p": [
+            "لا يحتوي هذا الموقع على حسابات مستخدمين أو تسجيل دخول أو كلمات مرور. ولا تحتاج إلى التسجيل للتصفح أو الشراء."
+          ]
+        },
+        {
+          "h": "لا أدوات تتبع إعلانية",
+          "p": [
+            "لا نستخدم بكسلات إعلانية، ولا نصوص إعادة الاستهداف، ولا أدوات تتبع لمنصات التواصل الاجتماعي، ولا ملفات تعريف ارتباط تسويقية من أطراف ثالثة."
+          ]
+        },
+        {
+          "h": "تفضيلاتك على جهازك",
+          "p": [
+            "يحفظ الموقع تفضيلاً وظيفياً واحداً صغيراً في localStorage بمتصفحك: المظهر الذي اخترته (فاتح أو داكن) واللغة (الإنجليزية أو العربية). ويبقى هذا التفضيل على جهازك ولا يُرسل إلينا، ويمكنك مسحه في أي وقت من إعدادات المتصفح."
+          ]
+        },
+        {
+          "h": "التحليلات",
+          "p": [
+            "إذا كانت التحليلات مفعّلة، فهي مجهولة الهوية وإجمالية فقط: عدد مشاهدات الصفحات وحركة الزيارات على مستوى الدولة، دون أي معرّفات شخصية ودون تتبع عبر المواقع. ونستخدمها لمعرفة الصفحات المفيدة."
+          ]
+        },
+        {
+          "h": "حقوقك",
+          "p": [
+            "يمكنك أن تطلب معرفة البيانات التي نحتفظ بها عنك، أو تصحيحها، أو حذفها، مع مراعاة السجلات التي يلزمنا الاحتفاظ بها لأغراض الضرائب والمحاسبة. راسلنا على support@haraka.tools وسنرد عليك سريعاً.",
+            "أما البيانات التي تحتفظ بها Lemon Squeezy، فيمكنك التواصل معها مباشرة أيضاً."
+          ]
+        },
+        {
+          "h": "التواصل",
+          "p": [
+            "Haraka يديرها أشرف سيلو، دبي، الإمارات العربية المتحدة. لاستفسارات الخصوصية: support@haraka.tools."
+          ]
+        }
+      ]
+    }
+  },
+  "refunds": {
+    "en": {
+      "title": "Refund Policy",
+      "updated": "2026-09-06",
+      "sections": [
+        {
+          "h": "Instant delivery, limited refunds",
+          "p": [
+            "Haraka products are digital files delivered instantly after payment. Once downloaded they cannot be returned, so refunds are limited to the cases below."
+          ]
+        },
+        {
+          "h": "When we refund",
+          "p": [
+            "We refund your purchase if, within 14 days of buying, you report a genuine defect (for example a file that will not open or a calculation that does not work as described) or the product materially differs from its description on the product page.",
+            "We may ask for a short description or a screenshot so we can confirm the problem. Where possible we will also fix the file for everyone."
+          ]
+        },
+        {
+          "h": "When we do not refund",
+          "p": [
+            "We do not refund for change of mind after the files have been downloaded, including cases where you bought the wrong product, no longer need it, or found it did not fit your workflow. In these cases support will still help you make the most of what you bought."
+          ]
+        },
+        {
+          "h": "Haraka Pro renewals",
+          "p": [
+            "Haraka Pro renews yearly. Cancel before the renewal date to avoid the next charge; you keep access until the end of the paid year. The defect rule above applies to renewals in the same way."
+          ]
+        },
+        {
+          "h": "How to request a refund",
+          "p": [
+            "Email support@haraka.tools from the address used at checkout, with your order number and a description of the issue. Approved refunds are processed by Lemon Squeezy, which handled your payment, and are returned to the original payment method."
+          ]
+        }
+      ]
+    },
+    "ar": {
+      "title": "سياسة الاسترداد",
+      "updated": "2026-09-06",
+      "sections": [
+        {
+          "h": "تسليم فوري واسترداد محدود",
+          "p": [
+            "منتجات Haraka ملفات رقمية تُسلَّم فوراً بعد الدفع. وبعد تنزيلها لا يمكن إرجاعها، لذلك يقتصر الاسترداد على الحالات المذكورة أدناه."
+          ]
+        },
+        {
+          "h": "متى نعيد المبلغ",
+          "p": [
+            "نعيد لك المبلغ إذا أبلغتنا خلال 14 يوماً من الشراء عن عيب حقيقي (مثل ملف لا يفتح أو معادلة لا تعمل كما هو موصوف)، أو إذا اختلف المنتج جوهرياً عن وصفه في صفحة المنتج.",
+            "قد نطلب وصفاً موجزاً أو لقطة شاشة للتحقق من المشكلة. وسنصلح الملف للجميع متى أمكن."
+          ]
+        },
+        {
+          "h": "متى لا نعيد المبلغ",
+          "p": [
+            "لا نعيد المبلغ عند تغيير الرأي بعد تنزيل الملفات، ويشمل ذلك شراء المنتج الخطأ، أو زوال الحاجة إليه، أو عدم ملاءمته لطريقة عملك. وفي هذه الحالات سيساعدك فريق الدعم على الاستفادة القصوى مما اشتريته."
+          ]
+        },
+        {
+          "h": "تجديد Haraka Pro",
+          "p": [
+            "يتجدد اشتراك Haraka Pro سنوياً. ألغِ الاشتراك قبل تاريخ التجديد لتجنب الرسوم التالية، وستحتفظ بالوصول حتى نهاية السنة المدفوعة. وتسري قاعدة العيب المذكورة أعلاه على التجديدات بالطريقة نفسها."
+          ]
+        },
+        {
+          "h": "كيف تطلب الاسترداد",
+          "p": [
+            "راسل support@haraka.tools من البريد الإلكتروني الذي استخدمته عند الشراء، مع رقم الطلب ووصف للمشكلة. وتعالج Lemon Squeezy عمليات الاسترداد المعتمدة لأنها الجهة التي تولت الدفع، ويُعاد المبلغ إلى وسيلة الدفع الأصلية."
+          ]
+        }
+      ]
+    }
+  },
+  "license": {
+    "en": {
+      "title": "End User Licence",
+      "updated": "2026-09-06",
+      "sections": [
+        {
+          "h": "Grant of licence",
+          "p": [
+            "When you buy a Haraka template, bundle or subscription, Haraka grants you a non-exclusive, non-transferable licence to use the purchased files under the terms below. You do not buy the templates themselves; you buy the right to use them."
+          ]
+        },
+        {
+          "h": "One buyer, one business",
+          "p": [
+            "The licence belongs to the person or company that made the purchase. It covers unlimited use inside that buyer's own business, including by employees working on that business.",
+            "Each buyer needs their own licence. If you are unsure whether your setup is covered, ask us at support@haraka.tools."
+          ]
+        },
+        {
+          "h": "Permitted use",
+          "p": [
+            "You may: open, edit, rename and brand the templates; issue invoices, quotations, credit notes, contracts and proposals to your real clients; keep your own books and estimates in them; make copies and backups for your own use; and adapt formulas and wording to your business."
+          ]
+        },
+        {
+          "h": "Restrictions",
+          "p": [
+            "You may not: resell or redistribute the files, edited or unedited; share them with other people or businesses, including clients, partners or friends; upload them to template marketplaces, file sharing sites or public repositories; or offer them as part of a competing product or service.",
+            "Sending a finished invoice or contract to a client is normal use, not sharing. Sending the blank template itself is not allowed."
+          ]
+        },
+        {
+          "h": "Your output is yours",
+          "p": [
+            "Everything you produce with the templates belongs to you: every invoice, quotation, ledger, estimate, contract and proposal. Haraka claims no rights in your documents or your data, and you do not need to credit Haraka on anything you send to clients."
+          ]
+        },
+        {
+          "h": "Updates",
+          "p": [
+            "Individual templates include the version you bought. Haraka Complete includes 1 year of updates to the templates in the bundle. Haraka Pro includes every update and every new template while the subscription is active. Updated files are covered by this same licence."
+          ]
+        },
+        {
+          "h": "Not professional advice",
+          "p": [
+            "The templates are tools, not tax, legal or accounting advice. Figures follow public FTA rules at the time of release. You remain responsible for your filings and should consult a licensed tax agent or lawyer for your situation."
+          ]
+        },
+        {
+          "h": "Termination",
+          "p": [
+            "This licence ends automatically if you breach its restrictions. On termination you must stop using the files and delete your copies. Documents you have already issued to clients are unaffected."
+          ]
+        },
+        {
+          "h": "Contact",
+          "p": [
+            "Haraka is operated by Ashraf Selo, Dubai, United Arab Emirates. This licence is governed by UAE law. Licensing questions: support@haraka.tools."
+          ]
+        }
+      ]
+    },
+    "ar": {
+      "title": "ترخيص المستخدم النهائي",
+      "updated": "2026-09-06",
+      "sections": [
+        {
+          "h": "منح الترخيص",
+          "p": [
+            "عند شرائك قالباً أو حزمة أو اشتراكاً من Haraka، تمنحك Haraka ترخيصاً غير حصري وغير قابل للتحويل لاستخدام الملفات المشتراة وفق الشروط أدناه. فأنت لا تشتري القوالب نفسها، بل حق استخدامها."
+          ]
+        },
+        {
+          "h": "مشترٍ واحد ونشاط واحد",
+          "p": [
+            "يعود الترخيص إلى الشخص أو الشركة التي أتمت الشراء، ويغطي الاستخدام غير المحدود داخل أعمال هذا المشتري الخاصة، بما في ذلك استخدام موظفيه العاملين في هذا النشاط.",
+            "يحتاج كل مشترٍ إلى ترخيصه الخاص. وإن لم تكن متأكداً من أن وضعك مشمول، اسألنا على support@haraka.tools."
+          ]
+        },
+        {
+          "h": "الاستخدام المسموح",
+          "p": [
+            "يجوز لك: فتح القوالب وتعديلها وإعادة تسميتها ووضع هويتك عليها؛ وإصدار الفواتير وعروض الأسعار وإشعارات الدائن والعقود والمقترحات لعملائك الفعليين؛ ومسك دفاترك وتقديراتك فيها؛ وإنشاء نسخ احتياطية لاستخدامك الخاص؛ وتكييف المعادلات والصياغات بما يناسب نشاطك."
+          ]
+        },
+        {
+          "h": "القيود",
+          "p": [
+            "لا يجوز لك: إعادة بيع الملفات أو إعادة توزيعها، معدّلة كانت أو غير معدّلة؛ أو مشاركتها مع أشخاص أو شركات أخرى، بمن فيهم العملاء أو الشركاء أو الأصدقاء؛ أو رفعها إلى متاجر القوالب أو مواقع مشاركة الملفات أو المستودعات العامة؛ أو تقديمها ضمن منتج أو خدمة منافسة.",
+            "إرسال فاتورة أو عقد جاهز إلى عميل استخدام طبيعي وليس مشاركة. أما إرسال القالب الفارغ نفسه فغير مسموح."
+          ]
+        },
+        {
+          "h": "ما تنتجه ملك لك",
+          "p": [
+            "كل ما تنتجه بالقوالب ملك لك: كل فاتورة وعرض سعر ودفتر وتقدير وعقد ومقترح. ولا تدّعي Haraka أي حق في مستنداتك أو بياناتك، ولست ملزماً بذكر Haraka في أي شيء ترسله إلى عملائك."
+          ]
+        },
+        {
+          "h": "التحديثات",
+          "p": [
+            "القوالب المنفردة تشمل الإصدار الذي اشتريته. وتشمل حزمة Haraka Complete تحديثات قوالب الحزمة لمدة سنة واحدة. ويشمل اشتراك Haraka Pro كل تحديث وكل قالب جديد ما دام الاشتراك فعّالاً. وتخضع الملفات المحدّثة لهذا الترخيص نفسه."
+          ]
+        },
+        {
+          "h": "ليست استشارة مهنية",
+          "p": [
+            "القوالب أدوات عمل، وليست استشارة ضريبية أو قانونية أو محاسبية. وتتبع الأرقام القواعد المعلنة من الهيئة الاتحادية للضرائب (FTA) وقت الإصدار. وتبقى مسؤولية الإقرارات عليك، وعليك استشارة وكيل ضريبي مرخص أو محامٍ لحالتك الخاصة."
+          ]
+        },
+        {
+          "h": "إنهاء الترخيص",
+          "p": [
+            "ينتهي هذا الترخيص تلقائياً إذا خالفت قيوده. وعند الإنهاء يجب أن تتوقف عن استخدام الملفات وتحذف نسخك منها. ولا يؤثر ذلك في المستندات التي سبق أن أصدرتها لعملائك."
+          ]
+        },
+        {
+          "h": "التواصل",
+          "p": [
+            "Haraka يديرها أشرف سيلو، دبي، الإمارات العربية المتحدة. ويخضع هذا الترخيص لقانون دولة الإمارات. لاستفسارات الترخيص: support@haraka.tools."
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "en": [
+      {
+        "q": "Which apps open the files?",
+        "a": "Excel files (.xlsx) work in Microsoft Excel 2016 or newer, Google Sheets and Apple Numbers. Word files (.docx) work in Microsoft Word and Google Docs. No add-ins or plugins are needed."
+      },
+      {
+        "q": "Is it really bilingual and right-to-left?",
+        "a": "Yes. Every template carries English and Arabic side by side, and the Arabic sections are set right-to-left with proper alignment. You can send the same document to an English-speaking or an Arabic-speaking client."
+      },
+      {
+        "q": "Is the VAT calculation compliant with FTA rules?",
+        "a": "The templates apply the standard 5% UAE VAT and include the fields the FTA requires on a tax invoice and a simplified tax invoice, following public FTA rules at the time of release. They are tools, not advice: your tax agent remains the final check on your invoices and returns."
+      },
+      {
+        "q": "Does it cover corporate tax?",
+        "a": "Yes. The Corporate Tax Estimator applies the 9% UAE corporate tax and checks whether you may qualify for Small Business Relief. It gives you an estimate to plan with. It does not file anything and does not replace a registered tax agent."
+      },
+      {
+        "q": "What happens when UAE tax rules change?",
+        "a": "We update the affected templates. Haraka Pro subscribers receive every update while their subscription is active, including updates released whenever UAE tax rules change. Haraka Complete buyers receive updates for 1 year from purchase. Individual templates are sold as the version available on the purchase date."
+      },
+      {
+        "q": "What is the difference between Haraka Complete and Haraka Pro?",
+        "a": "Haraka Complete is a one-time purchase: all current templates plus 1 year of updates. Haraka Pro is a yearly subscription: all templates, every update and every new template we release for as long as your subscription is active. Choose Complete if you want to pay once; choose Pro if you want to stay current without thinking about it."
+      },
+      {
+        "q": "Can I cancel Haraka Pro?",
+        "a": "Yes, at any time. Cancel through the Lemon Squeezy customer portal or email support@haraka.tools. Cancelling stops the next yearly renewal; you keep access until the end of the year you paid for, and the files you already downloaded remain yours to use under the licence."
+      },
+      {
+        "q": "How do I receive the files?",
+        "a": "Instantly. After checkout, Lemon Squeezy shows a download link on the confirmation page and emails it to you. If the email does not arrive, check your spam folder, then write to support@haraka.tools and we will resend it."
+      },
+      {
+        "q": "Will I get an invoice, and is VAT charged on my purchase?",
+        "a": "Yes, you get an invoice. Lemon Squeezy is the merchant of record: it issues your invoice and collects any tax that applies to your billing location, shown as a separate line at checkout. If you need your business details on the invoice, contact support@haraka.tools."
+      },
+      {
+        "q": "Can I use the templates for multiple clients?",
+        "a": "Yes. The licence covers unlimited use inside your own business, so you can invoice, quote and contract with as many clients as you like. What you cannot do is give the blank templates to another business or person; they would need their own licence."
+      },
+      {
+        "q": "Is this legal, tax or accounting advice?",
+        "a": "No. Haraka templates are tools. They follow public FTA rules at the time of release, but you are responsible for your own filings, and every business is different. For your situation, consult a licensed tax agent or lawyer."
+      },
+      {
+        "q": "How do I get support?",
+        "a": "Email support@haraka.tools with your order number and a short description of the issue, including a screenshot if possible. Support covers opening the files, using the built-in calculations, and fixing any defect. It does not extend to preparing your accounts or filing your returns."
+      }
+    ],
+    "ar": [
+      {
+        "q": "ما التطبيقات التي تفتح الملفات؟",
+        "a": "ملفات Excel بصيغة .xlsx تعمل في Microsoft Excel 2016 أو أحدث، وفي Google Sheets، وفي Apple Numbers. وملفات Word بصيغة .docx تعمل في Microsoft Word و Google Docs. ولا حاجة إلى أي إضافات أو ملحقات."
+      },
+      {
+        "q": "هل القوالب ثنائية اللغة فعلاً وتدعم الكتابة من اليمين إلى اليسار؟",
+        "a": "نعم. يحمل كل قالب النصوص بالإنجليزية والعربية جنباً إلى جنب، والأجزاء العربية مضبوطة من اليمين إلى اليسار بمحاذاة صحيحة. ويمكنك إرسال المستند نفسه إلى عميل يقرأ بالإنجليزية أو بالعربية."
+      },
+      {
+        "q": "هل احتساب ضريبة القيمة المضافة متوافق مع قواعد الهيئة الاتحادية للضرائب؟",
+        "a": "تطبّق القوالب ضريبة القيمة المضافة الإماراتية القياسية بنسبة 5%، وتتضمن الحقول التي تشترطها الهيئة الاتحادية للضرائب في الفاتورة الضريبية والفاتورة الضريبية المبسطة، وفق القواعد المعلنة وقت الإصدار. وهي أدوات لا استشارة: يبقى وكيلك الضريبي المرجع الأخير لفواتيرك وإقراراتك."
+      },
+      {
+        "q": "هل تغطي القوالب ضريبة الشركات؟",
+        "a": "نعم. يطبّق Corporate Tax Estimator ضريبة الشركات الإماراتية بنسبة 9%، ويتحقق مما إذا كنت مؤهلاً لإعفاء الأعمال الصغيرة (Small Business Relief). ويمنحك تقديراً تخطط على أساسه، لكنه لا يقدّم أي إقرار ولا يغني عن وكيل ضريبي مسجل."
+      },
+      {
+        "q": "ماذا يحدث عندما تتغير القواعد الضريبية في الإمارات؟",
+        "a": "نحدّث القوالب المتأثرة. يحصل مشتركو Haraka Pro على كل تحديث ما دام اشتراكهم فعّالاً، بما في ذلك التحديثات التي نصدرها كلما تغيّرت القواعد الضريبية في الإمارات. ويحصل مشترو Haraka Complete على التحديثات لمدة سنة من تاريخ الشراء. أما القوالب المنفردة فتُباع بالإصدار المتاح يوم الشراء."
+      },
+      {
+        "q": "ما الفرق بين Haraka Complete و Haraka Pro؟",
+        "a": "Haraka Complete شراء لمرة واحدة: جميع القوالب الحالية مع تحديثات لمدة سنة. أما Haraka Pro فاشتراك سنوي: جميع القوالب وكل تحديث وكل قالب جديد نصدره ما دام اشتراكك فعّالاً. اختر Complete إن كنت تفضّل الدفع مرة واحدة، واختر Pro إن أردت البقاء محدّثاً دائماً دون عناء."
+      },
+      {
+        "q": "هل يمكنني إلغاء Haraka Pro؟",
+        "a": "نعم، في أي وقت. ألغِ عبر بوابة العملاء في Lemon Squeezy أو راسل support@haraka.tools. يوقف الإلغاء التجديد السنوي التالي، وتحتفظ بالوصول حتى نهاية السنة التي دفعتها، وتبقى الملفات التي نزّلتها ملكك للاستخدام وفق الترخيص."
+      },
+      {
+        "q": "كيف أستلم الملفات؟",
+        "a": "فوراً. بعد إتمام الدفع تعرض Lemon Squeezy رابط التنزيل في صفحة التأكيد وترسله إليك بالبريد الإلكتروني. وإذا لم تصلك الرسالة، تحقق من مجلد الرسائل غير المرغوب فيها، ثم راسل support@haraka.tools وسنعيد إرسالها."
+      },
+      {
+        "q": "هل أحصل على فاتورة؟ وهل تُفرض ضريبة القيمة المضافة على مشترياتي؟",
+        "a": "نعم، تحصل على فاتورة. Lemon Squeezy هي التاجر المسجّل: تصدر فاتورتك وتحصّل أي ضريبة تنطبق على موقع الفوترة الخاص بك، وتظهر الضريبة في سطر مستقل عند الدفع. وإذا احتجت إلى إضافة بيانات منشأتك على الفاتورة، تواصل مع support@haraka.tools."
+      },
+      {
+        "q": "هل يمكنني استخدام القوالب مع عدة عملاء؟",
+        "a": "نعم. يغطي الترخيص الاستخدام غير المحدود داخل نشاطك الخاص، فيمكنك إصدار الفواتير وعروض الأسعار والعقود لأي عدد من العملاء. وما لا يجوز هو إعطاء القوالب الفارغة لشركة أو شخص آخر؛ فهم يحتاجون إلى ترخيصهم الخاص."
+      },
+      {
+        "q": "هل هذه استشارة قانونية أو ضريبية أو محاسبية؟",
+        "a": "لا. قوالب Haraka أدوات عمل. وهي تتبع القواعد المعلنة من الهيئة الاتحادية للضرائب وقت الإصدار، لكنك المسؤول عن إقراراتك، ولكل نشاط ظروفه. لحالتك الخاصة، استشر وكيلاً ضريبياً مرخصاً أو محامياً."
+      },
+      {
+        "q": "كيف أحصل على الدعم؟",
+        "a": "راسل support@haraka.tools مع رقم الطلب ووصف موجز للمشكلة، ولقطة شاشة إن أمكن. ويشمل الدعم فتح الملفات واستخدام الحسابات المدمجة وإصلاح أي عيب، ولا يمتد إلى إعداد حساباتك أو تقديم إقراراتك."
+      }
+    ]
+  }
+}

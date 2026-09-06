@@ -1,0 +1,23 @@
+{
+  "brand": "Haraka",
+  "brandAr": "حركة",
+  "tagline": "UAE business templates",
+  "siteUrl": "https://ashrafselomotion-afk.github.io/haraka",
+  "base": "/haraka/",
+  "supportEmail": "support@haraka.tools",
+  "operator": "Ashraf Selo, Dubai, United Arab Emirates",
+  "lemon": {
+    "storeUrl": "",
+    "overlay": true
+  },
+  "currency": {
+    "aedPerUsd": 3.6725
+  },
+  "themeColor": {
+    "light": "#f6f7f5",
+    "dark": "#0f1214"
+  },
+  "analytics": {
+    "enabled": false
+  }
+}

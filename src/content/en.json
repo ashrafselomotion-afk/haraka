@@ -1,0 +1,149 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "locale": "en_AE",
+  "otherLang": "ar",
+  "otherLangLabel": "العربية",
+  "meta": {
+    "title": "Haraka: bilingual invoice, VAT and tax templates for UAE businesses",
+    "description": "Excel and Word templates for UAE freelancers and small companies. FTA-compliant tax invoices, a VAT tracker, a corporate tax estimator, a cash-flow planner and bilingual contracts. Arabic and English in every file."
+  },
+  "nav": {
+    "templates": "Templates",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "cta": "Get Complete",
+    "menu": "Menu",
+    "close": "Close",
+    "theme": "Switch theme",
+    "currency": "Currency"
+  },
+  "hero": {
+    "h1": "Invoices, VAT and tax, sorted.",
+    "sub": "Bilingual Excel and Word templates built for UAE freelancers and small companies. Download, fill in, send.",
+    "primary": "Get Complete",
+    "secondary": "See the templates",
+    "demoTitle": "Tax Invoice",
+    "demoHint": "Live preview. Change the amounts.",
+    "demoFrom": "From",
+    "demoTo": "Bill to",
+    "demoTrn": "TRN",
+    "demoDesc": "Description",
+    "demoQty": "Qty",
+    "demoRate": "Rate",
+    "demoVat": "VAT",
+    "demoAmount": "Amount",
+    "demoLines": ["Brand identity design", "Website build", "Hosting, 12 months"],
+    "demoSubtotal": "Subtotal",
+    "demoVatTotal": "VAT 5%",
+    "demoTotal": "Total due",
+    "demoCurrency": "AED"
+  },
+  "lineup": {
+    "h2": "Five templates. One consistent system.",
+    "sub": "Every file shares the same fields, numbering and look, so a quotation becomes an invoice becomes a ledger line without retyping anything.",
+    "from": "from",
+    "view": "View template",
+    "formats": {
+      "xlsx": "Excel workbook",
+      "docx": "Word documents"
+    }
+  },
+  "facts": {
+    "h2": "Built on the rules as they stand.",
+    "items": [
+      { "n": "5%", "l": "VAT on standard-rated supplies" },
+      { "n": "375,000", "l": "AED: mandatory VAT registration and the 0% corporate tax band" },
+      { "n": "9%", "l": "Corporate tax above AED 375,000 taxable income" },
+      { "n": "1 Jul 2027", "l": "E-invoicing becomes mandatory for smaller businesses" }
+    ],
+    "note": "Figures follow public Federal Tax Authority rules at the time of release. Pro subscribers receive updated files when a rule changes."
+  },
+  "check": {
+    "h2": "Check where you stand.",
+    "sub": "Two numbers most owners get wrong. Enter your annual figures in AED.",
+    "revenue": "Annual revenue",
+    "profit": "Annual profit before tax",
+    "vatTitle": "VAT registration",
+    "ctTitle": "Corporate tax",
+    "vatBelow": "Below the voluntary threshold. You may register from AED 187,500.",
+    "vatVoluntary": "You may register voluntarily. Mandatory from AED 375,000.",
+    "vatMandatory": "Above AED 375,000. Registration is mandatory.",
+    "ctRelief": "Revenue is under AED 3M, so Small Business Relief may be available. If elected, tax payable is AED 0.",
+    "ctBand": "0% on the first AED 375,000, then 9%.",
+    "ctPayable": "Estimated tax payable",
+    "ctTaxable": "Taxable above the band",
+    "disclaimer": "An estimate, not advice. The full estimator handles adjustments, free zone status and deadlines."
+  },
+  "how": {
+    "h2": "How it works",
+    "steps": [
+      { "h": "Download", "p": "Checkout takes a minute. The files arrive by email and open in Excel, Google Sheets, Numbers, Word or Google Docs." },
+      { "h": "Fill in", "p": "Type your business details once on the Settings sheet. Every document picks them up, in both languages." },
+      { "h": "Send", "p": "Export to PDF, or print to A4. Your client sees a clean bilingual document with every field the FTA expects." }
+    ]
+  },
+  "pricing": {
+    "h2": "Pricing",
+    "sub": "Buy a single template, or get everything and stay current.",
+    "single": "Single templates",
+    "was": "was",
+    "perYear": "/ year",
+    "oneTime": "one-time",
+    "popular": "Most chosen",
+    "buy": "Buy",
+    "secure": "Secure checkout by Lemon Squeezy. Card, Apple Pay and Google Pay. Invoice issued automatically.",
+    "aed": "Prices in AED are approximate; the card is charged in USD."
+  },
+  "faq": {
+    "h2": "Questions, answered",
+    "more": "Read all questions"
+  },
+  "final": {
+    "h2": "Send your next invoice from Haraka.",
+    "sub": "Five templates, both languages, one payment.",
+    "cta": "Get Complete"
+  },
+  "product": {
+    "back": "All templates",
+    "buy": "Buy",
+    "orBundle": "or get all five in",
+    "inside": "What is inside",
+    "features": "What it does",
+    "who": "Made for",
+    "opensIn": "Opens in",
+    "language": "Arabic and English in every sheet",
+    "preview": "Preview",
+    "previewNote": "Rendered from the actual template. Sample data shown.",
+    "related": "Goes well with",
+    "guarantee": "14-day defect guarantee. If a file does not do what this page says, we fix it or refund it."
+  },
+  "footer": {
+    "blurb": "Bilingual business templates for the UAE.",
+    "legal": "Legal",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "refunds": "Refunds",
+    "license": "License",
+    "contact": "Contact",
+    "operated": "Haraka is operated by Ashraf Selo, Dubai, United Arab Emirates.",
+    "notAdvice": "Templates are tools, not tax, legal or accounting advice.",
+    "rights": "All rights reserved."
+  },
+  "checkout": {
+    "title": "Checkout is being connected",
+    "body": "The store opens shortly. Leave your email and you will get the launch price the moment it is live.",
+    "email": "Your email",
+    "send": "Notify me",
+    "close": "Close",
+    "mailSubject": "Haraka launch: notify me"
+  },
+  "legalNav": {
+    "updated": "Last updated"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "That page moved or never existed.",
+    "home": "Back to Haraka"
+  }
+}
