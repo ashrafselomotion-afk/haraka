@@ -184,7 +184,7 @@ html[lang="ar"] .inv th { letter-spacing: 0; font-size: .78rem; }
 .inv td { padding: 10px 0; border-bottom: 1px solid var(--line); vertical-align: middle; }
 .inv td.r, .inv th.r { text-align: end; }
 .inv input { width: 5.5ch; border: 1px solid transparent; background: var(--surface-2); border-radius: 6px; padding: 4px 6px; text-align: end; font-family: var(--font-mono); font-size: .875rem; color: var(--ink); }
-.inv input.rate { width: 8ch; }
+.inv input.rate { width: 9.5ch; }
 .inv input:hover { border-color: var(--line-2); }
 .inv input:focus { outline: 0; border-color: var(--accent); background: var(--surface); }
 .inv-totals { margin-top: 14px; margin-inline-start: auto; width: min(100%, 300px); font-size: .9rem; }
